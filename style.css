@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+
+html {
+
+    font-size: 10px;
+}
+
+body {
+    font-family: "lato", sans-serif;
+    font-size: 1.6rem;
+    font-weight: 400;
+    line-height: 1.5;
+    background-color: #fff;
+}
+
+.container {
+    width: 1140px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+/* navbar */
+
+nav {
+    font-family: montserrat;
+    background-color: #2C3E4F;
+    color: #fff;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
